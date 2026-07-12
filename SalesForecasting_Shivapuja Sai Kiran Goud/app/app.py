@@ -1,7 +1,5 @@
 """
 Sales Forecasting & Demand Intelligence Dashboard
-Internship Project - Week 3 & 4
-Shivapuja Sai Kiran Goud
 
 4-page Streamlit app:
   1. Sales Overview
